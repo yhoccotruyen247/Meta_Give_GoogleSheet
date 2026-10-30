@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "headers": [
+    "STT",
+    "Tên Sản phẩm",
+    "Ảnh Sản phẩm",
+    "Caption Shopee Video (tối đa 150 kí tự gồm 5 hashtag)",
+    "Prompt Video Tổng",
+    "Link Affiliate Shopee",
+    "Link Google Drive",
+    "Status",
+    "KOL",
+    "Folder G.Drive",
+    "Tài khoản Facebook",
+    "Link Video Tổng",
+    "Link Video 1",
+    "Link Video 2",
+    "Link Video 3"
+  ],
+  "rows": [],
+  "updatedAt": null,
+  "updatedBy": "initial"
+}
